@@ -1,8 +1,10 @@
 ### Hi there 👋
+
+<!--
 ### 🔭 I’m currently working on my own website
 ### 📫 How to reach me see [martisaw.github.io](https://martisaw.github.io)
 
-<!--
+
 **martisaw/martisaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
